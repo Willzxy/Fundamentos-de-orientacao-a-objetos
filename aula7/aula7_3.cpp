@@ -37,7 +37,7 @@ int main(){
 
     catch(TrataDivZero)
     {
-        T.Msg();
+        
     }
 
     catch (bad_alloc E){
@@ -45,7 +45,7 @@ int main(){
     }
 
     cout << "Fim..." <<endl;
-    system("pause")
+    system("pause");
     
     return 0;
 }
