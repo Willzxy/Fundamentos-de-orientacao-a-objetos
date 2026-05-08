@@ -13,6 +13,6 @@ int main(){
     pilha.pop();
 
     cout << "Agora o tpo da pilha: "<< pilha.top() << endl;
-
+    cout << "teste";
     return 0;
 }
